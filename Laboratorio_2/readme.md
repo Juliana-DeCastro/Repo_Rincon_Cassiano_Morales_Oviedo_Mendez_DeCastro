@@ -1,7 +1,7 @@
 <h1 align="center">Grupo 7 - Algoritmos 2022-1</h1>
-<p align="center"><strong>Descripcion</strong>
+<p align="center"><strong>Descripción</strong>
 <br>
-Laboratorio 2. Se realizaron 8 retos de programacion, que fueron solucionados de manera satisfactoria.
+Laboratorio 2. Se realizaron 8 retos de programación, que fueron solucionados de manera satisfactoria.
 </p>
 <br/>
  
@@ -14,5 +14,5 @@ Juliana Catalina De Castro Moreno | <a href = "mailto: jdec@unal.edu.co" target=
 Ivan Alexander Morales Muñoz | <a href = "mailto: imorales@unal.edu.co" target="_blank">Email</a>
 Nicolas Mauricio Rincon Vija | <a href = "mailto: nrinconv@unal.edu.co" target="_blank">Email</a>
 
-<h6>Ingenieria de Sistemas y Computacion</h6>
+<h6>Ingeniería de Sistemas y Computación</h6>
 <h6>Universidad Nacional de Colombia</h6>
