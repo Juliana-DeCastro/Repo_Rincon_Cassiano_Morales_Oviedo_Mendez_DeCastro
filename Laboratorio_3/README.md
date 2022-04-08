@@ -2,7 +2,7 @@
 <p align="center"><strong>Laboratorio 3</strong> </p>
 <br>
 
-<p>El laboratorio 3 consistió en hallar el segmento 'ACAGTAAGTGACAACAGATGTTT' por medio de un algoritmo de fuerza bruta en la secuencia del Genoma Viral Sars-Cov 2. 
+<p>El laboratorio 3 consistió en hallar el segmento 'AAGGCAGATGGGCTATATAAACGTT' por medio de un algoritmo de fuerza bruta en la secuencia del Genoma Viral Sars-Cov 2. 
   En el siguiente enlace podrá ver la secuencia completa: https://www.ncbi.nlm.nih.gov/nuccore/1798174254 🧬
 </p>
 
