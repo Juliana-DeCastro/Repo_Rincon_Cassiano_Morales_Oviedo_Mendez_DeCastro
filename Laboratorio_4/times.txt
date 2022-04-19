@@ -1,0 +1,2 @@
+Tiempo Algoritmo Bisección: 0.009537696838378906
+Tiempo Algoritmo Fuerza Bruta: 50.711068868637085
