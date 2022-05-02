@@ -2,20 +2,20 @@
 <p align="center"><strong>Tarea 1</strong> </p>
 <br>
 
-<p>La tarea 1 consistió en realizar una busqueda iterativa con un árbol binario cuyo algoritmo debía mostrar la ruta encontrada en el grafo, se realizó a través del lenguaje de programación Python. El código de ejecución se basó en https://www.geeksforgeeks.org/iterative-searching-binary-search-tree/.
-  La resolución de los puntos extras se realizo a través de 3 funciones, las cuales fueron modificadas para cumplir con el objetivo del ejercicio propuesto.
+<p>La tarea 1 consistió en realizar una busqueda iterativa con un árbol binario cuyo algoritmo debía mostrar la ruta encontrada en el grafo, se realizó a través del lenguaje de programación Python 3. El código de ejecución se basó en https://www.geeksforgeeks.org/iterative-searching-binary-search-tree/.
+  La resolución de los puntos extras se realizó a través de 3 funciones adicionales y modificando las funciones del código base.
   
-  📌 Algunos requerimientos dados por el usurario fueron:
-  - Ingreso del valor de la raíz para la geeración del árbol binario.
+  📌 Algunos requerimientos dados por el usuario fueron:
+  - Ingreso del valor de la raíz para la generación del árbol binario.
   - Cantidad de nodos para la generación del árbol binario.
   - Valor de los nodos.
   - Valor a buscar en el árbol binario.
 
 <br>
 <p>
-🎯 Los resultados fueron:<br>
+🎯 Un ejemplo de los resultados es:<br>
   - Busqueda de secuencia dada la posición del nodo con respecto a la raíz. (izquierda a derecha).<br>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/gFBDCwB/2022-04-30-20-40-28-Tarea1-Grupo7-ipynb-Colaboratory.png" alt="2022-04-30-20-40-28-Tarea1-Grupo7-ipynb-Colaboratory" border="0"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/CnwxV8n/ejecucion-algoritmo-tarea01.png" alt="ejecucion-algoritmo-tarea01" border="0"></a>
 </p>
 
 <br>
